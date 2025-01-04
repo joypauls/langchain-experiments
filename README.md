@@ -1,2 +1,3 @@
-# rag-experiments
-Experimenting with RAG + LangChain
+# RAG Experiments
+
+Experimenting with RAG and LangChain
