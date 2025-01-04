@@ -13,6 +13,8 @@ langchain-community = "^0.3.14"
 langgraph = "^0.2.60"
 langchain-openai = "^0.2.14"
 ipykernel = "^6.29.5"
+langchain-core = "^0.3.29"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
