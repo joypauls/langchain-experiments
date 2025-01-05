@@ -1,6 +1,6 @@
 # RAG Experiments
 
-Experimenting with RAG and LangChain
+Experimenting with RAG and LangChain. Project uses Poetry.
 
 ## Setup
 
@@ -9,3 +9,5 @@ Requires a `.env` file with the `OPENAI_API_KEY` variable set. Run `touch .env` 
 OPENAI_API_KEY=<your key>
 ```
 Remember not to commit this to source control.
+
+Add `USER_AGENT=` to silence the warning from LangChain
