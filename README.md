@@ -1,6 +1,6 @@
-# RAG Experiments
+# LangChain Experiments
 
-Experimenting with RAG and LangChain. Project uses Poetry.
+Experimenting with LangChain. Project uses Poetry.
 
 ## Setup
 
@@ -10,4 +10,4 @@ OPENAI_API_KEY=<your key>
 ```
 Remember not to commit this to source control.
 
-Add `USER_AGENT=` to silence the warning from LangChain
+Add `USER_AGENT=` to silence a warning from LangChain
