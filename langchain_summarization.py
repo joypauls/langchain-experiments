@@ -25,7 +25,8 @@ from langchain_community.callbacks import get_openai_callback
 
 
 # loader = WebBaseLoader("https://lilianweng.github.io/posts/2023-06-23-agent/")
-file_path = "./papers/rag_paper.pdf"
+# file_path = "./papers/rag_paper.pdf"
+file_path = "https://arxiv.org/pdf/2312.10997"
 loader = PyPDFLoader(file_path)
 docs = loader.load()
 print(len(docs))

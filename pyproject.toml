@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langchain-experiments"
+name = "pdf-assistant"
 version = "0.1.0"
 description = ""
 authors = ["joypauls <joypaulsen3@gmail.com>"]
@@ -16,6 +16,7 @@ ipykernel = "^6.29.5"
 langchain-core = "^0.3.29"
 beautifulsoup4 = "^4.12.3"
 pypdf = "^5.1.0"
+streamlit = "^1.41.1"
 
 
 [build-system]

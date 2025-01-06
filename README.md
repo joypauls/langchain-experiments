@@ -1,4 +1,4 @@
-# LangChain Experiments
+# PDF Assistant
 
 Experimenting with LangChain. Project uses Poetry.
 
