@@ -63,7 +63,7 @@ if submit:
         [
             (
                 "system",
-                "You are a helpful assistant. Read the following and provide a concise summary:\\n\\n{context}",
+                "You are a helpful assistant. Read the following and provide a concise summary that highlights the key points:\\n\\n{context}",
             )
         ]
     )
